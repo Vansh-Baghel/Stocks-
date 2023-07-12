@@ -159,3 +159,159 @@
 # Arbitrage
 
 - They buy a share with lower price from one place and sell it to other with higher rate.
+
+# Share Market Course
+
+## 72 Rule
+
+- 72 rules says that if you divide the yearly interest with 72, it will give out total years it will take to double your amt.
+
+## Fundamental Analysis
+
+- **Value VS Price**: Value means what value is the product giving, matlab uska worth kya hai. Price means uska price kitna hai.
+- **Value investing**: Means stock jo bhi buy kiya vo uske (intrinsic value se) kam price mai buy kiya. Means if price 100 hai but value sirf 80 dera hai, toh intrinsic value se zyada pay krdiya, means 20 ka loss.
+- We will learn how to check if the price is lesser than the Intrinsic value or not.
+
+## Ratios
+
+1. PE (Price to Earning) Ratio
+
+- Means kitna hum pay krenge aur return kitna milega.
+- Means price agar 1000 ka hai, and earning 100 ka hai, toh uska PE Ratio is 10. Matlab to earn 1 rupee, you will pay 10 rupees to the company.
+- Jitna kam hoga utna achha.
+
+2. PB Ratio (Price to Book)
+
+- Agar price is 100, and book value bhi 100 toh uska PB ratio 1 hai which is good. PB ratio 1,2 are good.
+- If zyada PB ratio hua then it means ki price zyada hai par book value (current value) kam hai.
+- Jitna kam hoga utna achha.
+
+3. Debt to Equity Ratio
+
+- Debt zyada sasta hota hai compared to equity for any company agar repay kar skte hai toh. Startups ko koi jaldi se debt nhi deta.
+- Debt to equity ratio agar 2 hua toh means usne 2x debt liya hai compared to equity.
+
+4. Cuurrent Ratio
+
+- Current Assets / Current Liabilities => Current Assets mai jisse turant we could earn, Current Liability means jo money company ko turant dena hai kisiko.
+- If assets is 20 Cr and if liability is 10 Cr, means current ratio is 2 which is good.
+- Jitna zyada utna achha, because company k paas zyada money hai, but kisi ko dena nhi hai zyada in manufacture or loan or whatever expenses k reason se.
+
+## Ratio Analysis and 100% Fundamental
+
+- **PE** ratio agar **negative** hua (Price/Earning) means **company ka earning** is **negative** because **price** would **never be negative**.
+- **PB** ratio would never be **negative**.
+- 90% analysis is done after seeing this **ratio and intrinsic value**.
+- 10% mai check unka **business, monopoly, future need and competitors**.
+- Monopoly business check kro, if there is a sector where there are no other other company. Eg: IRCTC (railway)
+- Check **competitor**, and if **there is a competitor**, check and **compare market capital, sales and cash flow among these companies**.
+
+## Dividend yield
+
+- Many companies **give the dividend** and **many don't**. If they don't, then they **use it to invest in other shares** jisse they **increase** their **share value**.
+- The reason why some companies doesn't give dividend, is that they invest in other companies from their side thinking ki if people would know what is the good place to invest, then why would they invest in our company.
+
+## Total values
+
+- Check if **total revenue is increasing** year by year. Must **increase** in 3 years atleast.
+- Same with **assets and liabilities**, assets must be **greater** and liability must be **lesser**.
+
+## Pledge and Promotor
+
+- **Promotor** means the **one who owns the company**, uske paas **kitna shares hai**.
+- **Pledging** means **selling their stocks**, and people sell stocks when they feel that it **would not make any profits**.
+- **Increased Total Promotor** agar green hai, means company is **buying their own shares**, they do this when they see good future in their company.
+- **Low pledged promoter** holding is green, means **pledging happening is less**, which is good.
+
+## Share holding history
+
+- If **foreign institute** have invested means its a **good share**.
+- If foreign institutes are **increasing the holdings** year by year, then its a **good sign** because they invest in bulk at good firms only.
+- Promotor holdings **agar kam nhi hore over 3 years toh its good**.
+
+## SIP (Systemmatic Investing Plan)
+
+- Every bank have different % interest which they give in return on our investment.
+- We must understand compounding, means increase/doubling in money after few years.
+
+## US Stock and Indian Stocks
+
+- India have 2 Index :- NSE and BSE.
+- NSE is **National Stock Exchange** which contains top 50 companies, also called **Nifty**.
+- BSE is **Bombay Stock Exchange** which consists of top 30 companies, called **Sensex**.
+- There are more than 4000 companies, but we could determine if the **stock market is up or down depending on these companies**.
+- US Stock has **Nasdaq** and one advantage is that **Dollar is getting increased in value** with respect to INR.
+
+## Mutual Funds
+
+### How Mutual Fund works
+
+- Mutual Funds are run by **AMC (Asset Management Company)**.
+- AMC take around **1-2% **from the **invested amount** and give **returns to the customer**, and it is run by a **knowledgeable manager with a team**.
+- **IPO(Initial Public Offering)** is done when there is a **new company** jinko apna stock list krwana hai, in case of **Mutual fund** there is **NFO (New Fund Offering)**
+
+* Mutual Fund companies gives us NAV
+* They also earn through **Exit Load** which is put when we exit the MF before time. Its percent is **0-4%**
+
+- People will suggest to invest in NFO, which according to him is senseless because NFO is new MF which will invest in many other companies, which will take time in growth, there are many good mutual funds out there which we good look upto.
+
+### Analyses
+
+- It is **AUM** which is **Asset Under Management** means how much are they holding the shares.
+- **CAGR JY** says ki how much return % did they give over the years.
+- **Expense Ratio** if 1 se upar then its **good**, below 1 is also good.
+- If **Time horizan is 3-5 yrs**, then choose **Mid Cap**, and if **5 yrs+** then go for **Flexi Cap funds(recommanded) **or any from Small Cap, Multi Cap or Flexi Cap.
+- Reason to invest in **Flexi Cap** is that if there is a company which **they feel that in 5 years it could come in top 50**, then vo log will **invest in it**.
+- **Dont go for Large Cap** because you can choose **Index itself** (Nifty 50 or Sensex). Why to give fees for the same thing.
+- Check Flexi Cap ke good/top Funds on tickertape.
+
+### Types
+
+1. Debt
+
+- Slighly safer than equity because equity investment is directly in stocks and stocks could change anytime. Less risk and less returns.
+
+* It depends on Time horizon means the amount of time you are going to keep the investment.
+
+2. Equity
+
+- There are few caps like **Large Cap, Mid Cap, Small Cap, Multi Cap, Flexi Cap** companies
+- Large Cap companies mai **low risk** and **low returns** hote and mutual fund go for these companies.
+- Mid Cap companies mai **mid risk **and **higher returns** than Large Cap.
+- Small Cap mai **high risk** and **high returns**.
+- Multi Cap **teeno mai invest krti**, and they have to **keep a track** of their investments.
+- Flexi Cap invest in **any Caps** depending on their companies ka performance, and unko **reason nhi dena hota**.
+
+3. Hybrid
+
+- Don't need to invest isme
+
+### ETF Investment
+
+- Mutual Funds are handled by AMC and these ETFs are Exchange Per Trade. Exchange Per Trades are NSE and BSE. Just like stock investing but more like mutual funds.
+- These are funds and not stocks.
+- ETF ka one example is Nifty Bees (BenchMark Exchange Trading Scheme) which we can buy. Nifty Bees is an ETF for Nifty 50. ETF will go up when Nifty goes up.
+- ETF will never fail or go 0 because your money is getting invested in multiple companies like in case of Nifty it is invested in 50 companies. One stock can be 0 but not all.
+
+- Advantages:
+
+1. Diversificaion Benefit: Means many companies mai invest hota hai.
+2. Professional Management: Professionals hee manage kr rhe.
+3. Low Cost: Cost bohot low hota compared to MF.
+
+- You can also invest in US stocks from IND Money.
+
+- Advantages for US Stocks:
+
+1. Fractional Investing: means you can invest minimum value bhi in US Stocks.
+2. Dollar Appreciation: INR ki value is depreciating in terms of Dollar.
+3. Portfolio Diversification: Means aur diverse companies mai invest kiya.
+
+### ETF Strategy
+
+- **Dont use this strategy in stocks or mutual funds, use this only for ETF because stock could go 0.**
+- Check if Nifty or Sensex is up or down for the day.
+- Take atleast 10% from your salary and start investing.
+- Market is closed on weekends so 20 days a month, therefore divide the invested amount by 20 and invest in ETF whenever the market is down.
+- If amount is 5000, divide 5k with 20 and invest on days when market is down so when market goes up, you will generate profits.
+- It will growth anyways and failing chance is almost 0 because ETF is like you are investing in so many companies.
