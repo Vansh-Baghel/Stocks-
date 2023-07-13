@@ -315,3 +315,258 @@
 - Market is closed on weekends so 20 days a month, therefore divide the invested amount by 20 and invest in ETF whenever the market is down.
 - If amount is 5000, divide 5k with 20 and invest on days when market is down so when market goes up, you will generate profits.
 - It will growth anyways and failing chance is almost 0 because ETF is like you are investing in so many companies.
+
+## Technical Analysis
+
+### Types of Tradings
+
+- There is Trend Trading, Reversal Trend Trading and breakout-breakdown trend.
+
+### Support and Resistant lines
+
+- Resistance is the drawn line jiske upar stocks jaa nhi rha and Support line is the line jiske neche stocks nhi ja rha.
+- Resistant means where sellers are ready to sell and support means jaha buyers are buying.
+- There are level of resistances, if resistance breaks 1 level, there would be another level sitting higher from it like R1, R2, R3, etc.
+- When it starts crashing then it could reach its support, or even lower than that like S1, S2, S3, etc.
+- When it starts crashing, means sellers are selling at any cost by which value girr rhi hai.
+- Many people leave jab unka resistence level (amount of profit) is reached, some of wait to make more out of it.
+
+### Pivot Points
+
+- You can use Indicator called Pivot Point Standard which will make all the pivots ie the support and resistant lines.
+- You can say your profit and loss based on it and can put stop loss based on that.
+- You can also manually plot the lines by observing the candles.
+- If one Support breaks, then it will go aur lower to its previous support, else will go upper to its next pivot ie next resistence.
+- Stop loss supports and resistence k basis par you can take.
+
+### Trend Trading
+
+- Never go against the trend.
+- Types of Trend tradings are:
+
+1. Up trend:
+
+- Stocks going up in a trend.
+
+2. Down trend: Stocks going Down.
+3. Sideways trend: Stocks going sideways, ie, no increase, no decrease.
+
+- How to determine that a trend is powerful or not (means agar up trend hua toh will it be up for more time or for few time), use ADX(Average Derivative Index) indicator.
+- ADX will show that if the trend have the power to continue the trend or not. Agar ADX goes below 25, it means jaan nhi bachi.
+
+### Indicators (Important)
+
+- We can get the lines automatically using SuperTrend from indicator.
+
+### IMPORTANT TIP
+
+- Bhaagte ghodhe ko chane khilaao.
+- Never put money in down trend, when you see trend going up, start putting money.
+- If you go against trend, you will lose.
+
+## Price Action
+
+### Buyers Vs Sellers
+
+- Buyers and sellers are always in competition with each other. If buyers are more strong, then stocks will go up, else it will go down if sellers are powerfull.
+
+### Master Price Actions
+
+- To master this, you must understand these 4 points:
+
+1. Trends
+2. Support and Resistance
+3. Candle sticks patterns
+4. Chart Patterns
+
+### Candle sticks patterns
+
+- It is important because in shares, history repeats, and jo pattern bann chuke, wahi repeat hote.
+
+### Autotrender software
+
+- PCR - Put Call Ratio. If 1 se upar then market upar jaane k chances
+- 1 se neche matlab girne k chances.
+
+### How to predict when to do trend trading
+
+- 1st way: Global market and PCR dekh kr u can decide ki trend trading krni h ya nhi
+- If global market profit mai hai and PCR 1 se upar hai, means market mai bullish run hoga, means market badh skti hai.
+- 2nd way: Price action observation
+
+### Volume importance in price action
+
+- When you notice a certain trend, lets say up or down, always notice how much volume does it has.
+- You could see volume in futures trade section.
+- This will let us know that does the trend have the capacity for long jump or its just for short period.
+
+### Marking Zone
+
+- We can always mark the zones depending on the changing point of the candles.
+- Agar zyada price ek hee zone par hai, matlab waha log bethe hai sell aur buy krne k liye.
+- You must also mark pivot, support and resistences while trading jisse you can predict ki market will go up or down.
+
+### Breakout and Breakdown
+
+- Ye trading krne k liye you must understand volume, support and resistence.
+- Ek baar market ne support ko break kiya, matlab vo neche jaayega till its pivot in most of the cases. Toh once support ka line break hua, people start buying for breakdown, means jitna neche jaayega market utna profit.
+- In such cases, keep trailing your stop losses, matlab harr candles ka high ko ek stop loss bana do.
+- Always respect your stop loss.
+- Price retest bhi krta hai, means when candle breaks the support line, people start taking entries and stocks again goes above the support line. Dont panic in such cases, because tumne money lagaya tha down mai and stocks upar gaya, so in such cases, stop loss laga diya karo to the support line. When retest hogya, means support k niche chalu hua jaana toh fir firse entry lelo.
+
+## Top Indicators for Intraday
+
+### Time Frame check
+
+- Check 5 mins time frame and then 15 for better accuracy.
+
+### SuperTrend
+
+- Supertrend is good when market goes in one direction, and is not good to use when market is sideways.
+
+### MACD (Moving Average Convergence Divergenece)
+
+- There are blue and red lines.
+- When blue line cuts red line from down, then its a signal to buy and when blue line cuts red from top, then its selling ka signal.
+
+### VWAP (Volume Weighted Average Price)
+
+- Market iske blue line k aas paas hee ghumta hai.
+- VWAP se durr jaa skta hai, but it will try to reach it again.
+
+### ADX
+
+- It shows how energetic the trend is. It doesn't show increase or decrease.
+
+### PCR
+
+## Candlestick chart patterns
+
+- Volume is important for getting high accuracy in candle stick patterns.
+- Candle mai body hoti hai and upper shadow or lower shadow hoti hai, jinko we could also call wick.
+- Candle says 4 things: Open, Close, High and Low.
+  ![Alt text](image.png)
+
+## Pin Patterns
+
+### Single Candlestick patterns
+
+> **Small Body big Shadow (Atleast 2x the body size)**
+
+- Zyada time frame gives more accuracy.
+
+#### 1. **Hammer and Hanging man**
+
+![Alt text](image-1.png)
+
+- The **size of shadow** must atleast be **double than** the **size of the block**.
+- Agar this pattern is at the bottom, it means it's a hammer and stock will go up, and if this is at the top, means it's a Hanging Man pattern.
+- Color doesnt matter, its position indicates ki which pattern is it.
+- In case of Hammer, it indicates that buyers are very strong. Volume must also increase in this case. It works very good when Volume is good.
+- **STOP LOSS and TRAILING**: In this pattern, keep your stop loss as the **pin ka high** and keep shifting your stop loss jab tak its making profit.
+
+- **Hammer Example**
+  ![Alt text](image-2.png)
+
+* Isme you can see that while coming down, there is a pin at the top, before that drawn line and while going up, there is a pin at bottom marked as Hammer.
+* Isse indicate kr skte hai ki market upar jayega ya neche.
+* **Hanging man example**
+  ![Alt text](image-3.png)
+* In this example, see that the hanging man has green color, so color doesn't matter and volume bhi maintained hai, so market mai dum hai.
+
+#### 2. **Inverted Hammer and Shooting Star**
+
+![Alt text](image-5.png)
+
+- **Inverted Hammer example**
+  ![Alt text](image-4.png)
+- In the above example, stoploss jaha likha hai that is **Inverted Hammer candle**.
+- Confirmation check karo by seeing its **high shadow**, jab cross hua, then you must **start investing**.
+- Stop loss **Invested Hammer k bottom wick** par laga le.
+
+- **Shooting Star**
+  ![Alt text](image-6.png)
+- Confirmation mila by seeing the candle for below the bottom wick.
+- Stop loss uske high wick par rakho.
+
+### Dragonfly Doji and GraveStone Doji
+
+![Alt text](image-7.png)
+
+- **DragonFly Doji Example**
+  ![Alt text](image-8.png)
+- **Another example of DragonFly Doji**
+  ![Alt text](image-9.png)
+- **GraveStone Doji Example**
+  ![Alt text](image-10.png)
+
+### Double Candlestick Patterns/ 2 Candlestick Patterns
+
+#### 1. Bullish Engulfing and Bearish Engulfing Pattern (Most important)
+
+![Alt text](image-12.png)
+
+- Here ek candle eats other candle.
+- Bullish Engulfing is the best when it is at the bottom.
+- Bearish Engulfing is the best when it is at the top.
+- Bullish Engulfing is a signal that price will rise and Bearish Engulfing is a signal that price will crash.
+
+EXAMPLE
+![Alt text](image-13.png)
+
+- Very good example where you can see both bullish and bearish engulfing.
+- First Bullish hua, confirmation is done when the bigger candle crosses the smaller candle ka top wick, and stop loss bigger candle k bottom par laga doh.
+- Then aage jaakr, Bearish hua, green candle ko red candle khaa gaya, this is an indicator to leave the trade and reinvest for the opposite direction.
+
+### Bullish Harami and Bearish Harami
+
+![Alt text](image-15.png)
+
+- Here one candle is at the middle of the other and halfway through.
+- Like in bullish harami, green's top is above the red ka mid and the candle is in the middle.
+- Confirmation for bullish harami is by checking the green candle ka upper wick. If next candle crosses the green candle ka upper wick, it means you can start investing and stop loss will be its lower wick.
+- Bearish harami mai if red candle ka lower wick is crossed by the next candle, you can invest and stop loss upper wick ko laga skte.
+
+* **Bullish Harami Example**
+  ![Alt text](image-16.png)
+
+* **Bearish Harami Example**
+  ![Alt text](image-17.png)
+* In this example, Bearish Harami is formed, and we confirm it when we see the next red candle crossing the bearish harami's red candle ka lower wick. Stop loss must be set to the Bearish Harami's red candle ka upper wick.
+* Aage there is Bullish Engulfing, and uske aage there is Bearish Engulfing, so you have to keep checking which patterns are getting generated.
+
+### Triple CandleStick Patterns
+
+#### 1. Morning and Evening Stars
+
+![Alt text](image-19.png)
+![Alt text](image-18.png)
+![Alt text](image-20.png)
+
+- Triple CandleStick itna important nhi hai because you will see **triple candlestick pattern in 5 minutes** and same thing will look as single candlestick ka **pin pattern in 15 Minutes**.
+- In morning star, 1 stick mai dekhna hai toh opening and closing dekho (red and green ka), and draw a square, then highest and lowest par make wick. This will give **Pin Pattern (Hanging man)**.
+- Similarly in Evening star, Opening and closing dekho within the 3 bars and plot a square. With that make a wick, this will give **Inverted Hammer**
+
+![Alt text](image-22.png)
+
+- Confirmation is done when you see further candles breaking the top wick of the morning star. Set your stop loss as its bottom wick. Then keep trailing.
+
+* Aage again there is a Morning star, then you can set uss ka bottom wick as stop loss.
+
+#### 2. Bullish and Bearish Abandoned Baby
+
+![Alt text](image-21.png)
+
+- In 15 mins frame, it is like Doji.
+- Doji because level of both the candles within 3 sticks is same.
+- Check where is doji, like is it at the top or at the bottom.
+
+- **Bullish abandoned baby ka example**.
+  ![Alt text](image-23.png)
+
+- Its confirmation is when the high of red is broken by further candles which is done after 2-3 candles in this example and set the stop loss as the entry candle ka bottom, and then keep trailing for bigger profits.
+
+* **Bearish Abandoned Baby ka example**
+  ![Alt text](image-24.png)
+
+- Confirmation is when the green ka bottom of bearish abandoned candles is crossed by further candles and set stop loss as top wick of red candle.
