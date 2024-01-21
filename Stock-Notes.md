@@ -166,6 +166,10 @@
 
 - 72 rules says that if you divide the yearly interest with 72, it will give out total years it will take to double your amt.
 
+## Fundamental Analysis Vs Technical Analysis
+
+- When you do investment, you do fundamental analysis, when you do trading then technical analysis.
+
 ## Fundamental Analysis
 
 - **Value VS Price**: Value means what value is the product giving, matlab uska worth kya hai. Price means uska price kitna hai.
@@ -422,6 +426,7 @@
 
 ### SuperTrend
 
+- Change default settings to length 20 and factor 2.
 - Supertrend is good when market goes in one direction, and is not good to use when market is sideways.
 
 ### MACD (Moving Average Convergence Divergenece)
@@ -431,6 +436,7 @@
 
 ### VWAP (Volume Weighted Average Price)
 
+- Futures chart mai hee VWAP works, index mai it doesn't work.
 - Market iske blue line k aas paas hee ghumta hai.
 - VWAP se durr jaa skta hai, but it will try to reach it again.
 
@@ -570,3 +576,107 @@ EXAMPLE
   ![Alt text](image-24.png)
 
 - Confirmation is when the green ka bottom of bearish abandoned candles is crossed by further candles and set stop loss as top wick of red candle.
+
+## Fibonacci Retracement
+
+- It gives us the important support and resistence.
+- Retracement means if price is going up, then vo thoda down bhi jaata hai, and then it again goes up. When price goes down this way, it is called retracement.
+- What is understood by this is when you miss an opportunity to buy, you can take entry once you notice the Fibonacci Retracement. The trend will be continued after retracement.
+  ![Alt text](image-25.png)
+
+- If the trend is down trend, mark the range from up to down, if its up trend, then from down to top.
+
+- Down trend Fibonacci Retracement
+  ![Alt text](image-27.png)
+- Here we could see that resistence certain levels par hee mil rha hai and once it breaks 0, means vo aur retrace kr skta hai.
+
+- Mark the highest and the lowest point. Manier times its like that ki resistence todhta hai and then fir retrace hota hai.
+- Means agar up trend chal rha hai, and if you see market going down, toh not necessary ki trend is changed. If it reaches 50% and then start going up again means uska resistence hai 50. Agar 78% ko cross krdiya, means most of the times trend change hogya.
+
+* Up trend Fibo Retracement
+  ![Alt text](image-26.png)
+* Here it has reacted at 50%, fir up gaya, then 24% par firse react kiya then up gaya. If 78% cross krleta hai in both up or down trend, toh it means that trend could be changed.
+
+## Volume Analysis
+
+- Volume means **kitne stocks have people bought**.
+- If volume is **more than it average volume**, means people are **interested in buying the stocks** which could give a **good signal**.
+- We can check average volume by observing the **blue line** which we could set up on upstox website.
+
+- Example
+  ![Alt text](image-28.png)
+- If **volume average or below average** chal rha hai, means the price would **not change significantly**.
+- If **volume is increasing** and **trend is going up**, then its a good signal that **trend up** hee jaayega. At the same time if **trend is going up** and **volume is decreasing**, then its an **early sign of reversal**, means **breakdown hoga** (neche jaaega)
+- If **trend is going down**, and **volume is increasing**, then its a sign ki it is a **strong bearish**.
+- It goes down till its support, then we see ki its still going down and volume bhi zyada hai, toh it will cross that support as well.
+
+![Alt text](image-29.png)
+
+## Intraday Strategy
+
+- Market could either be **volatile or sideways**.
+- **Stoploss apna 3 candles pechhe ka top ko lagao, because 1 candle ka lagaya toh it could easily hit the stop loss**.
+- To know if the market is volatile or sideways, you could check out **IndiaVix**
+  ![Alt text](image-30.png)
+- If **IndiaVix is below than 20**, its **less volatile**.
+- If **IndiaVix is above than 20**, its **volatile**.
+- If **IndiaVix is above than 25**, its **alot volatile**.
+- Use **SuperTrend**, if market is going up or if there is a probability of **market to go up**, then superTrend will be of **green color**. And if probability is of **going down**, then it shows **red color**. But its not always accurate, so dont rely on it.
+- For further confirmation, use **MACD**, when super trend said ki price will go down, check what MACD says. Use another confirmation ie **VWAP**
+- If all the 3 conditions are matching, then go for it.
+
+Example
+![Alt text](image-31.png)
+
+- In above example, we learn that **Trend change hone tak bane raho**, even if **MACD** crossover hojata hai, keep **trailing your stop loss** and **book** the **profits** once you see **trend change**. Zyada profits nhi hote, but thoda toh hojata hai but **risk increases**.
+- If price is not close to **VWAP**, toh its **not a good sign always**. Jitna paas utna achha.
+- If the **price is below VWAP**, just enter ASAP because it will **try to reach VWAP**.
+
+## Risk to Reward Ratio
+
+- You must know your risk to reward ratio. It must minimum be 1:2 means if you are thinking to earn 2000 then you must be ready to lose 1000.
+
+## Intraday Vs Long term
+
+- Investing is for long term. We could also call it delivery.
+- If you think that you are in lose for now, you will hold the share and wait until you make profits out of it.
+- In Intraday, you could lose and get large amount in very short term.
+- Intraday mai ek hee dinn mai you could either make big money or loss big money.
+
+## Future and Options
+
+- 90% people loss their 90% capital in first 90 days.
+- Futures mai there are 3 months ka charts which is displayed, ie, current month, near month and far month.
+- The more its late, the less will be its price.
+- You have to buy the shares in loats, means one fixed quantity.
+- If quantity is 1000 and share price is 400, it means total price to buy it would be 400000 but you don't need to pay purra for that. Margin which is required by you to pay (the total amount) could be found out using the span-calculator on upstox.
+
+## ATM (At the money), ITM (In the money), OTM (Out the money)
+
+- If current Nifty is at 1000, then for **Call Option**
+- **At the money**: Means ATM will be 1000.
+- **In the money** means which is already been passed ie 900 maybe.
+- **Out the money** means Current Market se zyada ie 1100.
+
+- If current Nifty is at 1000, then for **Put Option**
+- **At the money**: Means ATM will be 1000.
+- **In the money** means Current Market se zyada ie 1100.
+- **Out the money** means which is already been passed ie 900 maybe.
+  ![Alt text](image-32.png)
+
+## Options
+
+- We could trade in index (Nifty, Bank Nifty) or stocks, if its Nifty then its lot size is 50 and Bank Nifty ka 25.
+- If any stock is worth 10,000 but you have an option to buy it for 100 and get all the same profits and losses with respect to 10000, then it sounds good right?
+- If you think price will go up, you buy Call Option or Sell Put Option.
+- If you think price will go down, you but Put Option or Sell Call Option.
+- Seller has more advantage than buyer (67-33% ka ratio).
+- There are many useful information on **NSE Option Chain**.
+- OTM ka premium is always cheaper and ITM ka premium is always expensive.
+- Premium means its Last Traded Price (LTP).
+- All the yellow colors on the website is of higher cost, and white is of lower cost.
+- Avoid OTM trade, because usme there isn't much room to get profits, even though its buying price is negligible, you will get any profits once it crosses that limit. 
+- You can check the amount of profit or loss after you will get after what value from this website: [Option Strategy Builder]{https://web.sensibull.com/option-strategy-builder?instrument_symbol=NIFTY}
+
+## Detemine Intraday Stocks
+* 
